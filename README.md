@@ -4,8 +4,8 @@ Code for the engine implementation and reproducibility of the evaluation in pape
 # Building and running experiments
 Just use the provided Dockerfile to generate the environment for the experiments.
 ```
-docker build -t compiledUDFs .
-docker run -it compiledUDFs
+docker build -t compiledudfs .
+docker run -it compiledudfs
 ```
 In the root folder of the running docker container, run 
 ```
