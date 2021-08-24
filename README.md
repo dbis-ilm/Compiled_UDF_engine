@@ -11,7 +11,7 @@ In the root folder of the running docker container, run
 ```
 BUILDMODE=RELEASE . build.sh
 ```
-to build the engine in release mode.
+to build the engine and in release mode and set the environment.
 
 Run tests using 
 ```
