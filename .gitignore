@@ -1,0 +1,4 @@
+/exp/tpch-dbgen
+/release
+/debug
+*.onnx

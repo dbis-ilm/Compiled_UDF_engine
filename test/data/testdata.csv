@@ -1,0 +1,10 @@
+0|1234567|3.14159|Teststring with some spaces
+1|1234567|3.1415923456|Teststring with some spaces and some more words
+2|1234567|3|Teststring
+3|1234567|3.0|
+4|1234567|0|T
+5|1234567||Teststring with some spaces and some more words and some more words and some more words and some more words
+6|1234567|3.14159|Teststring123
+7|1234567|3.14159|Teststring
+8|1234567|3.14159|Teststring
+9|1234567|3.14159|Teststring
